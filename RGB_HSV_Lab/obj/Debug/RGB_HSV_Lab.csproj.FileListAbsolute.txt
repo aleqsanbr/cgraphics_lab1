@@ -1,0 +1,13 @@
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.csproj.AssemblyReference.cache
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.Form1.resources
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.FormDesaturated.resources
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.Properties.Resources.resources
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.csproj.GenerateResource.cache
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.csproj.CoreCompileInputs.cache
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\bin\Debug\RGB_HSV_Lab.exe.config
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\bin\Debug\RGB_HSV_Lab.exe
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\bin\Debug\RGB_HSV_Lab.pdb
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.exe
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.pdb
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.FormSplittedChanels.resources
+D:\MehMat\ComputerGraphics\ComputerGraphicsStudies\Lab2\RGB_HSV_Lab\RGB_HSV_Lab\obj\Debug\RGB_HSV_Lab.HSV_form.resources
